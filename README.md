@@ -2,8 +2,8 @@
 _Duration: 2 Days_
 
 ## Description
-A command-line interface (CLI) that calculates and lists the amount of paint needed per gallon.
-- An application built on demonstrating the fundamentals of Object-Oriented Programming (OOP)
+An application that calculates and lists the amount of paint needed per gallon through user input on the command line.
+- Built on demonstrating the fundamentals of Object-Oriented Programming (OOP)
 
 ## Technologies Used
 Project was built with:
