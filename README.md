@@ -13,8 +13,9 @@ Project was built with:
 
 ### Prerequisites
 To run this project, make sure you have the following software installed:
-
 - [Java Development Kit (JDK)](https://www.oracle.com/java/technologies/)
+
+Recommended tools:
 - [IntelliJ](https://www.jetbrains.com/idea/)
 
 ### Setup
